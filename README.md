@@ -1,7 +1,7 @@
-## URL Decoder
+# URL Decoder
 This repository contains a Python program for decoding and gridding ascii via google docs url and the cartesian coordinate system.
 
-# How to run
+## How to run
 
 Simple and straightforward, when the program is run it'll ask for a url
 
