@@ -1,13 +1,13 @@
 # URL Decoder
-This repository contains a python program for decoding and griding ascii via google docs url and the cartesian coordinate system.
+This repository contains a Python program for decoding and gridding ascii via google docs url and the cartesian coordinate system.
 
 # How to run
 
-It's very simple and straightforward, when the program is run it'll ask for a url
+Simple and straightforward, when the program is run it'll ask for a url
 
-If you're going to run this program, I suggest to install the following libraires: requests and BeautifulSoup
+If you're going to run this program, I suggest to install the following libraries: requests and BeautifulSoup
 
-E.g. pip install requests beautifulsoup4
+E.g. \pip install requests beautifulsoup4\
 
 Here's how the program works
 
