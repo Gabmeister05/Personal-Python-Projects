@@ -1,2 +1,2 @@
-# Personal-Python-Projects
-As the title suggests, these are personal python projects I did.
+# URL Decoder
+This repository contains a python program for decoding and griding ascii via google docs url and the cartesian coordinate system.
